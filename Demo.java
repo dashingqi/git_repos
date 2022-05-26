@@ -7,5 +7,7 @@ class People{
 
 		// ===========第二次提交===========
 		System.out.println("second");
+		// ===========第三次提交===========
+		System.out.println("thired");
 	}
 }
